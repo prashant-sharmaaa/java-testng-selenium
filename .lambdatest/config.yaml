@@ -1,0 +1,12 @@
+# LambdaTest Configuration
+
+# Project and folder configuration
+project_id: "01J87QEHKVYWMP0W5E8K5CMXRA"
+folder_id: "01J87QEHMHFXWC40A758WRX3NR"
+
+# Test Run configuration
+assignee: 1965794
+environment_id: 276022
+
+# Test URL for automation
+test_url: "https://lambdatest.github.io/sample-todo-app/"
